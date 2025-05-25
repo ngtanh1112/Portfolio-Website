@@ -1,7 +1,4 @@
 # Portfolio Website
-<<<<<<< HEAD
-portfolio-website-code-with-tanveer.
-=======
 All-about-me Website!
 Preview of this website:
 ![Preview_1](assets/images/previews/preview_1.png) 
